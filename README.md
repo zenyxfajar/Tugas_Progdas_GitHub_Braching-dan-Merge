@@ -1,4 +1,4 @@
-# Tugas_Progdas_GitHub_Braching-dan-Merge
+# Tugas_Progdas_GitHub_Branching-dan-Merge
 
 Kelompok 1
 
